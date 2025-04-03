@@ -1,0 +1,6 @@
+open git bash
+
+1) "C:\Users\user\OneDrive\Desktop\f29lp25"
+2) docker run -it -p 8888:8888 -v "$(pwd):/lectures" kstarkhwu/f29lp:latest
+3) jupyter notebook --ip=0.0.0.0
+
